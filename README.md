@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&pause=1000&color=4a3728&background=e8ddd0&center=true&vCenter=true&width=500&lines=🛠+Backend+%26+Data+Engineer+in+the+making)](https://git.io/typing-svg)
 
-Konkuk Univ. GLOCAL (Expected 2026)
+![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-a8b89a?style=flat-square&logoColor=white)
 
 <br/>
 
