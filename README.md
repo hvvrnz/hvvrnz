@@ -1,8 +1,8 @@
 <div align="center">
 
-### Backend & Data Engineer in the making
+### Backend & Data Engineer in the making 🌱
 
-Konkuk Univ. Glocal (Expected 2026)
+Building Zolver · Konkuk Univ. GLOCAL (Expected 2026)
 
 <br/>
 
@@ -19,12 +19,13 @@ Konkuk Univ. Glocal (Expected 2026)
 ![Python](https://img.shields.io/badge/Python-6B7C5A?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-6B7C5A?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6B7C5A?style=flat-square&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B7C5A?style=flat-square&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-6B7C5A?style=flat-square&logo=nginx&logoColor=white)
 
 **Data & Pipeline**
 
 ![Airflow](https://img.shields.io/badge/Airflow-8B7355?style=flat-square&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B7355?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8B7355?style=flat-square&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8B7355?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8B7355?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-8B7355?style=flat-square&logo=jupyter&logoColor=white)
