@@ -2,7 +2,7 @@
 
 ### Backend & Data Engineer in the making 🌱
 
-Building Zolver · Konkuk Univ. GLOCAL (Expected 2026)
+Konkuk Univ. GLOCAL (Expected 2026)
 
 <br/>
 
