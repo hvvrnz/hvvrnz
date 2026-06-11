@@ -6,7 +6,7 @@
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@0lalsoo/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rryyjj1105@gmail.com)
-[![🎓Zolver](https://img.shields.io/badge/Zolver-c9b49a?style=flat-square&logoColor=white)](https://www.zolver.co.kr)
+[![Zolver](https://img.shields.io/badge/🎓_Zolver-c9b49a?style=flat-square)](https://www.zolver.co.kr)
 
 <br/>
 
