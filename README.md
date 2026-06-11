@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=e8ddd0&height=120&section=header&text=Backend%20%26%20Data%20Engineer&fontSize=36&fontColor=4a3728&desc=Building%20Zolver%20·%20Konkuk%20Univ.%20Glocal%20Campus%20(Expected%202026)&descSize=14&descAlignY=75&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=soft&color=e8ddd0&height=120&section=header&text=Backend%20%26%20Data%20Engineer&fontSize=36&fontColor=4a3728&desc=Building%20Zolver%20%C2%B7%20Konkuk%20Univ.%20Glocal%20Campus%20(Expected%202026)&descSize=14&descAlignY=75&fontAlignY=45)
 
 <br/><br/>
 
