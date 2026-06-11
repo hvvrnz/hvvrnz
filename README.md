@@ -1,22 +1,12 @@
 <div align="center">
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#c9b49a"/>
-      <stop offset="100%" style="stop-color:#e8ddd0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="140" fill="url(#bg)" rx="16"/>
-  <text x="400" y="65" font-family="Arial" font-size="30" font-weight="bold" fill="#4a3728" text-anchor="middle">Backend &amp; Data Engineer in the making</text>
-  <text x="400" y="105" font-family="Arial" font-size="14" fill="#6b4c37" text-anchor="middle">Building Zolver · Konkuk Univ. Glocal Campus (Expected 2026)</text>
-</svg>
+![header](https://capsule-render.vercel.app/api?type=soft&color=e8ddd0&height=120&section=header&text=Backend%20%26%20Data%20Engineer&fontSize=36&fontColor=4a3728&desc=Building%20Zolver%20·%20Konkuk%20Univ.%20Glocal%20Campus%20(Expected%202026)&descSize=14&descAlignY=75&fontAlignY=45)
 
 <br/><br/>
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@0lalsoo/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rryyjj1105@gmail.com)
-[![Zolver](https://img.shields.io/badge/Zolver-c9b49a?style=flat-square&logoColor=white)](https://www.zolver.co.kr)
+[![🎓Zolver](https://img.shields.io/badge/Zolver-c9b49a?style=flat-square&logoColor=white)](https://www.zolver.co.kr)
 
 <br/>
 
