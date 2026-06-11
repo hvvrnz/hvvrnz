@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=24&pause=1000&color=4a3728&background=e8ddd0&center=true&vCenter=true&width=500&lines=🛠+Backend+%26+Data+Engineer)](https://git.io/typing-svg)
 
 ![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-a8b89a?style=flat-square&logoColor=white)
-
+![otter](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif)
 <br/>
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@0lalsoo/posts)
