@@ -1,6 +1,6 @@
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hvvrnz&show_icons=true&theme=swift&hide_border=true&bg_color=e8ddd0&title_color=4a3728&text_color=6b5344&icon_color=8B7355)
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=hvvrnz&theme=soft-green&background=e8ddd0&ring=8B7355&fire=c9874f&currStreakLabel=4a3728&sideLabels=4a3728&dates=8B7355&stroke=e8ddd0&currStreakNum=4a3728&sideNums=4a3728&hide_border=true)](https://git.io/streak-stats)
 <br/>
 <br/>
 
