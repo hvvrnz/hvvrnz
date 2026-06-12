@@ -10,6 +10,8 @@
 <br/>
 
 Hi, I'm ryoonjeong!
+<br/>
+
 ![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-7a9e6e?style=flat-square&logoColor=white)
 
 
