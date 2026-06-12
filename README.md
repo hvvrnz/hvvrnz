@@ -1,6 +1,8 @@
 
 <div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=hvvrnz&theme=soft-green&background=e8ddd0&ring=8B7355&fire=c9874f&currStreakLabel=4a3728&sideLabels=4a3728&dates=8B7355&stroke=e8ddd0&currStreakNum=4a3728&sideNums=4a3728&hide_border=true)](https://git.io/streak-stats)
+  
 <br/>
 <br/>
 
