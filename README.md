@@ -1,7 +1,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=hvvrnz&theme=soft-green&background=e8ddd0&ring=8B7355&fire=c9874f&currStreakLabel=4a3728&sideLabels=4a3728&dates=8B7355&stroke=e8ddd0&currStreakNum=4a3728&sideNums=4a3728&hide_border=true)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hvvrnz&bg_color=e8ddd0&color=4a3728&line=8B7355&point=c9874f&area=true&hide_border=true)
   
 <br/>
 <br/>
@@ -9,6 +9,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif" width="150"/>
 <br/>
 
+Hi, I'm ryoonjeong!
 ![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-7a9e6e?style=flat-square&logoColor=white)
 
 
