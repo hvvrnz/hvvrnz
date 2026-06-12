@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hvvrnz&bg_color=e8ddd0&color=4a3728&line=8B7355&point=c9874f&area=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=hvvrnz&show_icons=true&hide_border=true&bg_color=e8ddd0&title_color=4a3728&text_color=6b5344&icon_color=8B7355&include_all_commits=true&rank_icon=github)
   
 <br/>
 <br/>
