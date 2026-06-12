@@ -2,12 +2,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hvvrnz&show_icons=true&theme=swift&hide_border=true&bg_color=e8ddd0&title_color=4a3728&text_color=6b5344&icon_color=8B7355)
 <br/>
-
+![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-7a9e6e?style=flat-square&logoColor=white)
 <br/>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif" width="150"/>
 <br/>
-![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-7a9e6e?style=flat-square&logoColor=white)
 
 <br/>
 <br/>
