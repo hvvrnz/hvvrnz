@@ -1,14 +1,15 @@
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hvvrnz&show_icons=true&hide_border=true&bg_color=e8ddd0&title_color=4a3728&text_color=6b5344&icon_color=8B7355&include_all_commits=true&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=hvvrnz&show_icons=true&hide_border=true&bg_color=e8ddd0&title_color=4a3728&text_color=6b5344&icon_color=8B7355&rank_icon=github)
 
 <br/>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif" width="100"/>
 
-## Hi, I'm ryoonjeong 🤎
+### Hi, I'm ryoonjeong 🤎
 
 **Data Engineer · Full-Stack Builder**
+
 ![Konkuk](https://img.shields.io/badge/Konkuk_GLOCAL_Univ._(Expected_2026)-005826?style=flat-square&logoColor=white)
 
 <br/>
@@ -16,6 +17,7 @@
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@0lalsoo/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rryyjj1105@gmail.com)
 [![Zolver](https://img.shields.io/badge/🎓_Zolver-c9b49a?style=flat-square&logoColor=white)](https://www.zolver.co.kr)
+[![Notion](https://img.shields.io/badge/Zolver_운영기록-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Zol-ver-2f9a85fda61180668867d33fa3144cc7)
 
 <br/>
 
