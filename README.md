@@ -9,7 +9,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif" width="150"/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=20&pause=1000&color=4a3728&background=ede5d8&center=true&vCenter=true&width=280&height=45&lines=Hi%2C+I'm+ryoonjeong!+🐾)](https://git.io/typing-svg)
+Hi, I'm ryoonjeong!
 
 <br/>
 
