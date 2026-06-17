@@ -10,7 +10,7 @@
 
 **Data Engineer · Full-Stack Builder**
 
-![Konkuk](https://img.shields.io/badge/Konkuk_University_-computer_enginnering._(Expected_2027)-005826?style=flat-square&logoColor=white)
+![Konkuk](https://img.shields.io/badge/Konkuk_University_computer_enginnering._(Expected_2027)-005826?style=flat-square&logoColor=white)
 
 <br/>
 
