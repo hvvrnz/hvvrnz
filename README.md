@@ -1,6 +1,5 @@
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hvvrnz&theme=solarized_light)
 
 <br/>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif" width="100"/>
