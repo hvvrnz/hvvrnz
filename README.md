@@ -8,15 +8,23 @@
 ### Hi, I'm ryoonjeong 🤎
 **Data Engineer · Full-Stack Builder**
 
-[![Konkuk](https://img.shields.io/badge/Konkuk_University_--_computer_enginnering_(Expected_2027)-005826?style=flat-square&logoColor=white)](https://img.shields.io/badge/Konkuk_University_computer_engineering_(Expected_2027)-005826?style=flat-square&logoColor=white)
+[![Konkuk](https://img.shields.io/badge/Konkuk_University_--_computer_enginnering_(Expected_2027)-005826?style=flat-square&logoColor=white)]
+(https://img.shields.io/badge/Konkuk_University_computer_engineering_(Expected_2027)-005826?style=flat-square&logoColor=white)
+
 <br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-hvvrnz.github.io-8B6F52?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hvvrnz.github.io)
+
 <br/>
+
 [![Notion](https://img.shields.io/badge/Zol.ver_--_Project_Log-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Zol-ver-2f9a85fda61180668867d33fa3144cc7)
+
 <br/>
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@0lalsoo/posts)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rryyjj1105@gmail.com)
 [![Zolver](https://img.shields.io/badge/🎓_Zolver-6B3A2A?style=flat-square&logoColor=white&color=4A4438)](https://www.zolver.co.kr)
+
 <br/>
 
 ---
