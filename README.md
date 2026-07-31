@@ -13,9 +13,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hvvrnz.github.io-8B6F52?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hvvrnz.github.io)
 
-<br/>
-
-[![Notion](https://img.shields.io/badge/Zol.ver_--_Project_Log-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Zol-ver-2f9a85fda61180668867d33fa3144cc7)
 
 <br/>
 
