@@ -5,7 +5,7 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k3NHhhMmFudjZ1Z3B2ZnVtODd1N3ZhdXpydmlxdHNpcWIyeWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T4C3j1r3F6iDLBP3tl/giphy.gif" width="100"/>
 
 ### Hi, I'm ryoonjeong 🤎
-**Data Engineer · Full-Stack Builder**
+**Data Engineer ·  Backend & Infrastructure**
 
 [![Konkuk](https://img.shields.io/badge/Konkuk_University_--_computer_enginnering_(Expected_2027)-005826?style=flat-square&logoColor=white)](https://img.shields.io/badge/Konkuk_University_computer_engineering_(Expected_2027)-005826?style=flat-square&logoColor=white)
 
@@ -24,8 +24,21 @@
 
 ---
 
+<div align="center">
+
 | Backend | Data & Pipeline | Frontend | Infra & Tools |
-|:---:|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-6B7C5A?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-6B7C5A?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6B7C5A?style=flat-square&logo=sqlalchemy&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-6B7C5A?style=flat-square&logo=nginx&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-8B7355?style=flat-square&logo=apacheairflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B7355?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8B7355?style=flat-square&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-8B7355?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-8B7355?style=flat-square&logo=numpy&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic-8B7355?style=flat-square&logo=elastic&logoColor=white) | ![React](https://img.shields.io/badge/React-A89880?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-A89880?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-A89880?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-A89880?style=flat-square&logo=css3&logoColor=white) | ![AWS EC2](https://img.shields.io/badge/AWS_EC2-7A6652?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7A6652?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-7A6652?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-9E9185?style=flat-square&logo=git&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-9E9185?style=flat-square&logo=linux&logoColor=white) |
+| :-----: | :-------------: | :------: | :-----------: |
+| ![Python](https://img.shields.io/badge/Python-6B7C5A?style=flat-square&logo=python&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-6B7C5A?style=flat-square&logo=apachekafka&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-A89880?style=flat-square&logo=javascript&logoColor=white) | ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-7A6652?style=flat-square&logo=amazonec2&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-6B7C5A?style=flat-square&logo=fastapi&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-6B7C5A?style=flat-square&logo=redis&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-A89880?style=flat-square&logo=html5&logoColor=white) | ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-7A6652?style=flat-square&logo=oracle&logoColor=white) |
+| ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6B7C5A?style=flat-square&logo=sqlalchemy&logoColor=white) | ![Redis Geo](https://img.shields.io/badge/Redis%20Geo-6B7C5A?style=flat-square&logo=redis&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-A89880?style=flat-square&logo=css3&logoColor=white) | ![OCI Compute](https://img.shields.io/badge/OCI%20Compute-7A6652?style=flat-square&logo=oracle&logoColor=white) |
+| | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8B7355?style=flat-square&logo=postgresql&logoColor=white) | | ![Oracle Linux](https://img.shields.io/badge/Oracle%20Linux-7A6652?style=flat-square&logo=oracle&logoColor=white) |
+| | ![MySQL](https://img.shields.io/badge/MySQL-8B7355?style=flat-square&logo=mysql&logoColor=white) | | ![Docker](https://img.shields.io/badge/Docker-7A6652?style=flat-square&logo=docker&logoColor=white) |
+| | ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-8B7355?style=flat-square&logo=oracle&logoColor=white) | | ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-7A6652?style=flat-square&logo=docker&logoColor=white) |
+| | ![Oracle Autonomous Database](https://img.shields.io/badge/Oracle%20ADB-8B7355?style=flat-square&logo=oracle&logoColor=white) | | ![Ubuntu](https://img.shields.io/badge/Ubuntu-7A6652?style=flat-square&logo=ubuntu&logoColor=white) |
+| | ![Pandas](https://img.shields.io/badge/Pandas-8B7355?style=flat-square&logo=pandas&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-9E9185?style=flat-square&logo=git&logoColor=white) |
+| | ![NumPy](https://img.shields.io/badge/NumPy-8B7355?style=flat-square&logo=numpy&logoColor=white) | | ![WSL](https://img.shields.io/badge/WSL-9E9185?style=flat-square&logo=linux&logoColor=white) |
+| | | | ![GitHub](https://img.shields.io/badge/GitHub-9E9185?style=flat-square&logo=github&logoColor=white) |
+
+</div>
 
 </div>
