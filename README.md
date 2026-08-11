@@ -24,8 +24,6 @@
 
 ---
 
-<div align="center">
-
 | Backend | Data & Pipeline | Frontend | Infra & Tools |
 | :-----: | :-------------: | :------: | :-----------: |
 | ![Python](https://img.shields.io/badge/Python-6B7C5A?style=flat-square&logo=python&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-6B7C5A?style=flat-square&logo=apachekafka&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-A89880?style=flat-square&logo=javascript&logoColor=white) | ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-7A6652?style=flat-square&logo=amazonec2&logoColor=white) |
@@ -38,7 +36,5 @@
 | | ![Pandas](https://img.shields.io/badge/Pandas-8B7355?style=flat-square&logo=pandas&logoColor=white) | | ![Git](https://img.shields.io/badge/Git-9E9185?style=flat-square&logo=git&logoColor=white) |
 | | ![NumPy](https://img.shields.io/badge/NumPy-8B7355?style=flat-square&logo=numpy&logoColor=white) | | ![WSL](https://img.shields.io/badge/WSL-9E9185?style=flat-square&logo=linux&logoColor=white) |
 | | | | ![GitHub](https://img.shields.io/badge/GitHub-9E9185?style=flat-square&logo=github&logoColor=white) |
-
-</div>
 
 </div>
