@@ -7,7 +7,7 @@
 ### Hi, I'm ryoonjeong 🤎
 **Data Engineer ·  Backend & Infrastructure**
 
-[![Konkuk](https://img.shields.io/badge/Konkuk_University_--_computer_enginnering_(Expected_2027)-005826?style=flat-square&logoColor=white)](https://img.shields.io/badge/Konkuk_University_computer_engineering_(Expected_2027)-005826?style=flat-square&logoColor=white)
+[![Konkuk](https://img.shields.io/badge/Konkuk_University_--_computer_enginnering-005826?style=flat-square&logoColor=white)](https://img.shields.io/badge/Konkuk_University_computer_engineering_(Expected_2027)-005826?style=flat-square&logoColor=white)
 
 <br/>
 
