@@ -20,9 +20,9 @@
 
 | Project | Period | Description | Highlight |
 |:---|:---:|:---|:---:|
-| Yogiyo × Oracle Hackathon | 2026.07.27 ~ 2026.08.21 | 조리시간 기반 다건 배달 최적화 · 주문 클러스터링 · 라이더 위치 기반 배차 | Finalist |
+| Yogiyo × Oracle Hackathon | 2026.07.27 ~ 2026.08.21 | 조리시간 기반 다건 배달 최적화 · 주문 클러스터링 · 라이더 위치 기반 배차  | Finalist (2인) |
 | Zol.ver | 2026.02 ~ 2026.06.08 (운영중) | 졸업 요건 시각화 & 수강 관리 플랫폼 · 기획/개발/운영 | 1인 개발 서비스 |
-| KuTTy | 2025.04 ~ 2025.10 | 교내 개인 맞춤형 시간표 추천 서비스 · ERD 설계 및 ETL 파이프라인 구축 · 프론트엔드 개발 | Capstone Project |
+| KuTTy | 2025.04 ~ 2025.10 | 교내 개인 맞춤형 시간표 추천 서비스 · ERD 설계 및 ETL 파이프라인 구축 · 프론트엔드 개발 | Capstone Project (3인) |
 
 
 ### ˚.  ⋆  . Certifications  .  ⋆  .
